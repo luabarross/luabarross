@@ -1,4 +1,4 @@
-### Olá eu sou a Luana Barros, estudante de programação!
+### Olá eu sou a Luana Barros, estudante de programação Front-end!
 
 <div align="center">
   <a href="https://github.com/luabarross">
